@@ -3,7 +3,7 @@ using UnityEngine;
 public class MoveCube : MonoBehaviour
 {
     public float speed = 4.0f;
-    private float startX;
+    private float startX; 
     private float targetX;
     private bool movingRight = true;
 
